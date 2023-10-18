@@ -1,0 +1,15 @@
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.exe
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.deps.json
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.runtimeconfig.json
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.dll
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\bin\Debug\net6.0\TrabalhoHerancaComposicaoVenda.pdb
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.csproj.AssemblyReference.cache
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.AssemblyInfoInputs.cache
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.AssemblyInfo.cs
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.csproj.CoreCompileInputs.cache
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.dll
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\refint\TrabalhoHerancaComposicaoVenda.dll
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.pdb
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\TrabalhoHerancaComposicaoVenda.genruntimeconfig.cache
+E:\Estudos\Fatec\POO\TrabalhoHerancaComposicaoVenda\obj\Debug\net6.0\ref\TrabalhoHerancaComposicaoVenda.dll
