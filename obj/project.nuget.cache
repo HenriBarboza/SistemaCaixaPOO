@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XGn0HjNd5/bnEyhkI/2ACBpIx2mrvnmFkVxN6TxhFu9ltZKX/A2VQw1P2gUocETy2vfAyWy9dstXVTykk0rOoQ==",
+  "dgSpecHash": "12T5MLJlNKsQ+XMVz3PM3OH3i6La3Tiag4Psw9ixxdikhU1b8/FNGnfDwXETo5K1cTmYJbKeofPAN3NHvobBPQ==",
   "success": true,
-  "projectFilePath": "E:\\Estudos\\Fatec\\POO\\TrabalhoHerancaComposicaoVenda\\TrabalhoHerancaComposicaoVenda.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\SistemaCaixa\\TrabalhoHerancaComposicaoVenda.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

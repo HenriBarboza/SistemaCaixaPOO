@@ -40,6 +40,26 @@ namespace TrabalhoHerancaComposicaoVenda
             System.Console.WriteLine("*******************************************************************");
             System.Console.WriteLine("*******************************************************************");
         }
+        public void LocalizarProduto(int cod)
+        {
+            if (cod == Codigo)
+            {
+                System.Console.WriteLine("");
+                System.Console.WriteLine("*******************************************************************");
+                System.Console.WriteLine("*******************************************************************");
+                System.Console.WriteLine("*************************  Produto  *******************************");
+                System.Console.WriteLine($"\t\t CÓDIGO: {Codigo}");
+                System.Console.WriteLine($"\t\t NOME: {Nome}");
+                System.Console.WriteLine($"\t\t ESTOQUE: {Estoque}");
+                System.Console.WriteLine($"\t\t PREÇO: R${Preco}");
+                System.Console.WriteLine("*******************************************************************");
+                System.Console.WriteLine("*******************************************************************");
+            }
+        }
+
+        public void AtualizarEstoque(int qnt){
+                this.Estoque = this.Estoque - qnt;
+        }
 
         public int Estoque
         {

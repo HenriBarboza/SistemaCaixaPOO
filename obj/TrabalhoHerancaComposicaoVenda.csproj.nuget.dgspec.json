@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Estudos\\Fatec\\POO\\TrabalhoHerancaComposicaoVenda\\TrabalhoHerancaComposicaoVenda.csproj": {}
+    "C:\\xampp\\htdocs\\SistemaCaixa\\TrabalhoHerancaComposicaoVenda.csproj": {}
   },
   "projects": {
-    "E:\\Estudos\\Fatec\\POO\\TrabalhoHerancaComposicaoVenda\\TrabalhoHerancaComposicaoVenda.csproj": {
+    "C:\\xampp\\htdocs\\SistemaCaixa\\TrabalhoHerancaComposicaoVenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Estudos\\Fatec\\POO\\TrabalhoHerancaComposicaoVenda\\TrabalhoHerancaComposicaoVenda.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\SistemaCaixa\\TrabalhoHerancaComposicaoVenda.csproj",
         "projectName": "TrabalhoHerancaComposicaoVenda",
-        "projectPath": "E:\\Estudos\\Fatec\\POO\\TrabalhoHerancaComposicaoVenda\\TrabalhoHerancaComposicaoVenda.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\SistemaCaixa\\TrabalhoHerancaComposicaoVenda.csproj",
         "packagesPath": "C:\\Users\\henrf\\.nuget\\packages\\",
-        "outputPath": "E:\\Estudos\\Fatec\\POO\\TrabalhoHerancaComposicaoVenda\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\SistemaCaixa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henrf\\AppData\\Roaming\\NuGet\\NuGet.Config"
